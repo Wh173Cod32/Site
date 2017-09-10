@@ -1,0 +1,48 @@
+@font-face
+{
+    font-family: 'Track';
+    src: url('Track.otf');
+}
+
+@font-face
+{
+  font-family: 'PoliceCrack';
+  src: url('Cracked Code.ttf');
+}
+body
+{
+  font-family: 'Track';
+  font-size: 1em;
+}
+a
+{
+  color : red;
+  font-weight: bold;
+}
+h1
+{
+  font-family: 'PoliceCrack';
+  text-align: center;
+}
+.inline
+{
+  color:red;
+  text-decoration: underline;
+}
+.titre
+{
+  text-decoration: underline;
+  color : blue;
+}
+a:hover
+{
+  font-size:1.5em;
+}
+a:visited
+{
+  color:blue;
+}
+a:active
+{
+  color:blue;
+}
