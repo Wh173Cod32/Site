@@ -53,18 +53,18 @@
   border:blue dashed 3px;
   weight:100px;
 }
-.element:nth-child(1)
+.element:nth-child(1) /* Premier élément */
 {
   order:3;
   background-color:blue;
 }
-.element:nth-child(2)
+.element:nth-child(2) /* Deuxième élément */
 {
   order:2;
   background-color:purple;
   flex:1;
 }
-.element:nth-child(3)
+.element:nth-child(3) /* Troisième élément */
 {
   order:1;
   background-color:yellow;
